@@ -119,7 +119,7 @@ const Hero = () => {
                     <br></br>
                     <div className="cta-buttons">
                         <a href="#projects" className="btn btn-primary">View My Work</a>
-                        <a href="https://drive.google.com/file/d/1lwilNoPAUWvOxds2AKJwv9eA5n-KTadb/view?usp=sharing" className="btn btn-secondary">Resume</a>
+                        <a href="https://drive.google.com/file/d/13iIFQsNXAfnVHIUfmDZH1ZkLW0DZrTqY/view?usp=sharing" className="btn btn-secondary">Resume</a>
                     </div>
                 </div>
                 <div className="hero-image">
